@@ -1,0 +1,10 @@
+os: osx
+language: ruby
+rvm:
+  - 2.3
+git:
+  submodules: false
+before_install:
+  - git submodule update --init --recursive
+install: sudo gem install cheatset --no-ri --no-rdoc
+script: find cheatsheets -name "*.rb" | xargs -n 1 cheatset generate
