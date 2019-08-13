@@ -1,1 +1,2 @@
 https://github.com/Kapeli/cheatsheets.git	Dash/Cheatsheets
+https://github.com/Kapeli/Dash-User-Contributions.git	Dash/User-Contributions
