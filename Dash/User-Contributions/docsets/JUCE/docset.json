@@ -1,0 +1,11 @@
+{
+    "name": "JUCE",
+    "version": "5.4.1",
+    "archive": "JUCE.tgz",
+    "author": {
+        "name": "Julian Storer",
+        "link": "http://www.juce.com"
+    },
+    "aliases": ["JUCE",
+                "Jules Utility Class Extensions"]
+}
